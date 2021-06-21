@@ -1,0 +1,84 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url(pon.jpg);
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 30px;
+}
+header {
+	background-color: #0E7B86 ;
+}
+main {
+	background-color: #0E7B86;
+}
+footer {
+	background-color: #2C646A;
+}
+p {
+	color: #79FFFE;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	color: white;
+}
+h4 {
+	text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	color: white;
+}
+img {
+	width: 30%;
+}
+.card {
+	display: inline-block;
+	width: 30%;
+	height: 300px ;
+	background-color: black;
+	margin-left: 3%;
+	padding: 10px;
+	margin-top: 5px;
+}
+.img {
+	width: 20%;
+	margin-left: 80%;
+}
+span {
+	color: white;
+}
+a {
+	text-decoration: none;
+	background-color: #1A4F55 ;
+	border: solid #1A4F55 5px;
+	border-radius: 5px;
+	color: white;
+}
+a:hover {
+	background-color: #11909C ;
+	border: solid 5px #11909C;
+	color: #79FFFE;
+}
+ul {
+	text-align: center;
+}
+button {
+	background-color: black;
+	color: white;
+	width: 30%;
+	height: 40px;
+	font-size: ;
+}
+button:hover {
+	background-color: #232323;
+	color: #ECECEC;
+}
+.high {
+	width: 10%;
+	height: 10%;
+	position: fixed;
+	left: 90%;
+	top: 70%;
+	z-index: 12;
+}
